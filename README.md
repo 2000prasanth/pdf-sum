@@ -1,7 +1,12 @@
-# Welcome to streamlit
+# PDF Summarizer Gemini
 
-This is the app you get when you run `streamlit hello`, extracted as its own app.
+## Description
+This project is a Streamlit app that summarizes PDF documents. It's based on the `streamlit-hello` app and can be customized to suit your needs.
 
-Edit [Hello.py](./Hello.py) to customize this app to your heart's desire. ❤️
+## Installation
+To install the app, clone the repository and install the required dependencies:
 
-Check it out on [Streamlit Community Cloud](https://st-hello-app.streamlit.app/)
+```bash
+git clone https://github.com/2000prasanth/pdf-summarizer-Gemini.git
+cd pdf-summarizer-Gemini
+pip install -r requirements.txt
